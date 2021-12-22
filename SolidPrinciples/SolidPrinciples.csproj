@@ -8,8 +8,6 @@
   <ItemGroup>
     <Folder Include="InterFaceSegregation\Correcto\" />
     <Folder Include="InterFaceSegregation\Incorrecto\" />
-    <Folder Include="LiskovSubstitution\Correcto\" />
-    <Folder Include="LiskovSubstitution\Incorrecto\" />
   </ItemGroup>
 
 </Project>
