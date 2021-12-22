@@ -5,4 +5,11 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="InterFaceSegregation\Correcto\" />
+    <Folder Include="InterFaceSegregation\Incorrecto\" />
+    <Folder Include="LiskovSubstitution\Correcto\" />
+    <Folder Include="LiskovSubstitution\Incorrecto\" />
+  </ItemGroup>
+
 </Project>
